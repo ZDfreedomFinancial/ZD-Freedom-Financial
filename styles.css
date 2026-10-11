@@ -80,7 +80,7 @@ h3{font-size:1.75rem}
 .form-note{font-size:.7rem;color:#7a8591;margin:15px 0 0}
 .footer{background:#041323;color:#9baaba;padding:34px 0}
 .footer-wrap{display:flex;align-items:center;justify-content:space-between;gap:30px}
-.footer img{width:170px;filter:brightness(0) invert(1);opacity:.9}
+.footer img{width:170px;filter:none;opacity:1}
 .footer p{font-size:.72rem;margin:4px 0}
 .footer-disclaimer{color:#6f7d8d}
 @media(max-width:900px){
